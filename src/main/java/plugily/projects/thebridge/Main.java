@@ -194,7 +194,7 @@ public class Main extends JavaPlugin {
       arena.resetPlacedBlocks();
       arena.resetHits();
     }
-    Debugger.debug("System disable finished took {0}ms", System.currentTimeMillis() - start);
+    Debugger.debug("System disable finished tooak {0}ms", System.currentTimeMillis() - start);
   }
 
   private void initializeClasses() {
